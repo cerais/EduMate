@@ -3,7 +3,8 @@
 
 >***Интеллектуальный помощник для создания учебных материалов***
 
-![enter image description here](https://drive.google.com/file/d/1pwutx4A8v_951WM_mTFM6kmaUCUS9PoT/view?usp=drive_link)
+<img src="https://sun9-73.userapi.com/impg/WpJUjPdXpq4_7EKgtDjGlSNBV61fVB2fFkZt8w/W83QLOYZ_3k.jpg?size=1018x1280&quality=95&sign=5ff72b9e2f3b2e0a7f356f22b85cdf00&type=album" alt="Описание" width="600" height="700">
+
 
 # **Содержание**
 
@@ -46,6 +47,9 @@
 Эксперимент, проведённый среди студентов учащихся в СПбГУ по анализированию текста. Опрос проведён психологом среди 17 студентов СПбГУ в ноябре 2022 года. Эксперимент представлял собой простой анализ текста на понимание басен Эзопа.
 
 Исходя из результатов теста, можно понять, что современные ученики плохо понимают смысл текста самостоятельно. У них могут возникнуть трудности с подготовкой к важным занятиям или экзаменам из-за неправильного восприятия и большого количества информации.
+
+<img src="https://sun9-53.userapi.com/impg/7b2vl-lhci8S0_b_GTjPYBym74DhGseWbIUzXA/aevjFdiO97A.jpg?size=1280x719&quality=95&sign=8a4d9d0528b607288854e45e3877a929&type=album" alt="Описание" width="500" height="300">
+
  *из Журнала ВШЭ “Психология”*
 
 
@@ -117,11 +121,26 @@
 
 При использовании сайта, пользователи должны испытывать комфорт не только от *удобного интерфейса*, но и от его *цветовой палитры*. Исходя из статьей различных ученых мы выявили, что для работоспособности человека самыми оптимистическими цветами являются **желтый** и **фиолетовый**, которые стимулируют повышению мотивации, креативности, оптимизма и вдохновения.
 
+<img src="https://sun9-53.userapi.com/impg/NEO_6hGkPtl7shX11t6Ptz3svU2P5FIFwfrMig/EJrzFrI0YeQ.jpg?size=682x252&quality=95&sign=3d31cda88a1387427da383d9ca559508&type=album" alt="Описание" width="600" height="200">
+
 # **Макет интерфейса**
 
 Наш сайт адаптируется под ***мобильные*** и ***десктопные*** устройства
 
 Разрабатываемый продукт будет обладать адаптивным дизайном, обеспечивая безупречное отображение и удобство использования на любых устройствах,начиная от смартфонов и заканчивая настольными компьютерами.
+
+
+|                                                    |                                                                |
+|----------------------------------------------------|----------------------------------------------------------------|
+|<img src="https://sun9-39.userapi.com/impg/n7VdsDzsUKpvWd4bUDxTiEtNSbPqOfzQWCTvSA/1mLwme2Vj6A.jpg?size=632x1280&quality=95&sign=8c6146c2fcc619ee6662b4660ceafda6&type=album" alt="Описание" width="100" height="200">|  <img src="https://sun9-63.userapi.com/impg/MvVD5dgAtTV_UhN-mnhBMdiCAA8eMvQhHT_kUA/t9pH9_dt5No.jpg?size=632x1280&quality=95&sign=d6584c747e8fdc670801e41cdb7c2957&type=album" alt="Описание" width="100" height="200">         |
+ <img src="https://sun9-40.userapi.com/impg/sE2Hzg95AS4ZPhKSI68qiOc5vskzyVmNhq24rA/jTWanC3fLBg.jpg?size=393x852&quality=95&sign=c08b650d36059df65cebb52b837d3c9c&type=album" alt="Описание" width="100" height="200">| <img src="https://sun9-25.userapi.com/impg/432ni9nlW06UGtNjHpcPR5qjfoNf54auOFjf5g/FdB8wyIUFXk.jpg?size=632x1280&quality=95&sign=8889f5bea1e904390b0fd9e83f07a014&type=album" alt="Описание" width="100" height="200">        |         
+|<img src="https://sun9-7.userapi.com/impg/AueYYutzf3uzXaRMH75jD3jTJhJLUwQedY-ASw/dRg3HRXDsj0.jpg?size=393x852&quality=95&sign=27dc716fb0037b7a22855082bac03ed9&type=album" alt="Описание" width="100" height="200">|<img src="https://sun9-62.userapi.com/impg/oIyhWmG4YcO0PBd6NvwfaDanmS5pb5xYz6HSEA/ZSL3ta1h_fA.jpg?size=633x1280&quality=95&sign=88e80cf634bb10c622386a5f910acbd3&type=album" alt="Описание" width="100" height="200">|
+
+|        тут декстопный варик лучше                                            |                                                                |
+|----------------------------------------------------|----------------------------------------------------------------|
+|<img src="https://sun9-39.userapi.com/impg/n7VdsDzsUKpvWd4bUDxTiEtNSbPqOfzQWCTvSA/1mLwme2Vj6A.jpg?size=632x1280&quality=95&sign=8c6146c2fcc619ee6662b4660ceafda6&type=album" alt="Описание" width="100" height="200">|  <img src="https://sun9-63.userapi.com/impg/MvVD5dgAtTV_UhN-mnhBMdiCAA8eMvQhHT_kUA/t9pH9_dt5No.jpg?size=632x1280&quality=95&sign=d6584c747e8fdc670801e41cdb7c2957&type=album" alt="Описание" width="100" height="200">         |
+ <img src="https://sun9-40.userapi.com/impg/sE2Hzg95AS4ZPhKSI68qiOc5vskzyVmNhq24rA/jTWanC3fLBg.jpg?size=393x852&quality=95&sign=c08b650d36059df65cebb52b837d3c9c&type=album" alt="Описание" width="100" height="200">| <img src="https://sun9-25.userapi.com/impg/432ni9nlW06UGtNjHpcPR5qjfoNf54auOFjf5g/FdB8wyIUFXk.jpg?size=632x1280&quality=95&sign=8889f5bea1e904390b0fd9e83f07a014&type=album" alt="Описание" width="100" height="200">        |         
+|<img src="https://sun9-7.userapi.com/impg/AueYYutzf3uzXaRMH75jD3jTJhJLUwQedY-ASw/dRg3HRXDsj0.jpg?size=393x852&quality=95&sign=27dc716fb0037b7a22855082bac03ed9&type=album" alt="Описание" width="100" height="200">|<img src="https://sun9-62.userapi.com/impg/oIyhWmG4YcO0PBd6NvwfaDanmS5pb5xYz6HSEA/ZSL3ta1h_fA.jpg?size=633x1280&quality=95&sign=88e80cf634bb10c622386a5f910acbd3&type=album" alt="Описание" width="100" height="200">|
 
 https://www.figma.com/design/OLOIQbpmNoNC9PEr1IdmsQ/%D1%81%D0%B8%D1%80%D0%B8%D1%83%D1%81.%D0%B8%D0%B8?node-id=0-1&t=JxATM0Rb6LkZ3e3F-1
 
