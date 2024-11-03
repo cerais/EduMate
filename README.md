@@ -1,7 +1,7 @@
 
 # EduMate
 
->***Интеллектуальный помощник для создания учебных материалов***
+>## ***Интеллектуальный помощник для создания учебных материалов***
 
 <img src="https://sun9-73.userapi.com/impg/WpJUjPdXpq4_7EKgtDjGlSNBV61fVB2fFkZt8w/W83QLOYZ_3k.jpg?size=1018x1280&quality=95&sign=5ff72b9e2f3b2e0a7f356f22b85cdf00&type=album" alt="Описание" width="600" height="700">
 
