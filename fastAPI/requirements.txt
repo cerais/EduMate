@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+vosk
+pydub
+mistralai
+moviepy
+requests
+gradio_client
