@@ -17,7 +17,8 @@
 
 ## Запуск
 
-Скачайте репозиторий с Git `
+Скачайте репозиторий с Git 
+`
 https://github.com/cerais/EduMate/new/main/fastAPI
 `
 
